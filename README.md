@@ -1,6 +1,9 @@
 # js-abbreviation
+List of javascript abbreviation 
+
 
 > List of javascript abbreviation
+
 Name | abbreviation
 ------------ | -------------
 ECMA | `European Computer Manufacturers Association`
@@ -33,11 +36,11 @@ CPU  |`Central Processor Unit`
 DOM |`Document Object Model`
 ES |`ECMAScript`
 ES5 |`ECMAScript 5`
-ES6   |`ECMAScript 6`
-HTML  | `HyperText Markup Language`
-HTTP  | `Hypertext Transfer Protocol`
-HTTP2  | `Hypertext Transfer Protocol 2`
-IIFE   |`Immediately Invoked Function Expression`
+ES6  |`ECMAScript 6`
+HTML | `HyperText Markup Language`
+HTTP | `Hypertext Transfer Protocol`
+HTTP2 | `Hypertext Transfer Protocol 2`
+IIFE |`Immediately Invoked Function Expression`
 JS   |`JavaScript`
 JSON |`JavaScript Object Notation`
 JSON-LD | `JSON for Linked Data`
